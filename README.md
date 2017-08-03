@@ -1,4 +1,4 @@
 # Arquivo teste
-![./cachorro.png](Cachorrinho)
+![Cachorrinho](cachorro.png)
 
 Este repositório serve de teste para Git e Github.
